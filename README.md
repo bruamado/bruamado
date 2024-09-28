@@ -16,7 +16,9 @@ Sou Desenvolvedor Fullstack na <a href="https://www.liax.tech/">Liax IT</a>
 
 <h1>Hi there 👋</h1>
 
-<h3>🔭 I’m currently working on two projects:</h3>
+I'm a Fullstack developer at <a href="https://www.liax.tech/">Liax IT</a>
+
+<h3>🔭 I’m currently working on two volunteer projects:</h3>
 <ul>
 <li><a href="https://github.com/ToGatherGroup/front-sensei">Projeto Sensei</a> - A web application for athlete control and analysis that will be used by <a href="https://www.instagram.com/sensei_divino">Instituto Sensei Divino Budokan</a></li>
 <li><a href="https://github.com/bruamado/projeto-apajac-front">Projeto APAJAC</a> - A web application for manage welcomed autistic people in <a href="https://apajac.org/">APAJAC - Associação de Pais dos Autistas de Jacareí</a></li>
