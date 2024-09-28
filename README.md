@@ -1,6 +1,6 @@
 <h1>Olá 👋</h1>
-
-<h3>🔭 Estou atualmente trabalhando em dois projetos:</h3>
+Sou Desenvolvedor Fullstack na <a href="https://www.liax.tech/">Liax IT</a>
+<h3>🔭 Estou atualmente trabalhando em dois projetos voluntários:</h3>
 <ul>
 <li><a href="https://github.com/ToGatherGroup/front-sensei">Projeto Sensei</a> - Uma aplicação web para controle e análises estatísticas de alunos atletas do <a href="https://www.instagram.com/sensei_divino">Instituto Sensei Divino Budokan</a></li>
 <li><a href="https://github.com/bruamado/projeto-apajac-front">Projeto APAJAC</a> - Uma aplicação web para gerenciamento dos autistas assistidos pela <a href="https://apajac.org/">APAJAC - Associação de Pais dos Autistas de Jacareí</a></li>
