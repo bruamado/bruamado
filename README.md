@@ -10,9 +10,6 @@ Atualmente estou atuando com desenvolvimento e implementação de agentes para i
 
 <h2>Atenção: Este é meu Github para projetos pessoais, por isso a baixa atividade. Profissionalmente atuo dentro do sistema de versionamento dos clientes, como GitLab ou até mesmo GitHub, mas usando uma conta corporativa privada.</h2>
 
-LinkedIn: (https://www.linkedin.com/in/bruamado/)[https://www.linkedin.com/in/bruamado/]
-Portifólio: (https://bruno-amado.is-a.dev/)[https://bruno-amado.is-a.dev/]
-
 <details>
 <summary>English version</summary>
 
@@ -27,8 +24,5 @@ I am currently working on the development and implementation of agents for integ
 [Portfolio](https://bruno-amado.is-a.dev/)
 
 <h2>Note: This is my GitHub for personal projects, which is why there is low activity. Professionally, I work within clients' version control systems, such as GitLab or even GitHub, but using a private corporate account.</h2>
-
-LinkedIn: [https://www.linkedin.com/in/bruamado/](https://www.linkedin.com/in/bruamado/)
-Portfolio: [https://bruno-amado.is-a.dev/](https://bruno-amado.is-a.dev/)
 
 </details>
