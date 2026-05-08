@@ -4,7 +4,7 @@ Sou Desenvolvedor Fullstack Sênior na <a href="https://www.liax.tech/">Liax IT<
 Atualmente estou atuando com desenvolvimento e implementação de agentes para integração com ecossistemas de LLMs
 <br><br>
 
-[LinkedIn](https://bruno-amado.is-a.dev/)
+[LinkedIn](https://www.linkedin.com/in/bruamado/)
 <br>
 [Portifólio](https://bruno-amado.is-a.dev/)
 
@@ -19,7 +19,7 @@ I am a Senior Fullstack Developer at <a href="https://www.liax.tech/">Liax IT</a
 I am currently working on the development and implementation of agents for integration with LLM ecosystems.
 <br><br>
 
-[LinkedIn](https://bruno-amado.is-a.dev/)
+[LinkedIn](https://www.linkedin.com/in/bruamado/)
 <br>
 [Portfolio](https://bruno-amado.is-a.dev/)
 
